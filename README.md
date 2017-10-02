@@ -11,6 +11,10 @@ São Paulo (SP), **Brazil**
 11 November, 2017  
 São Paulo (SP), **Brazil**
 
+[**Django Girls - Floripa**](https://www.facebook.com/DGFloripa/)  
+11 November, 2017  
+Florianópolis (SC), **Brazil**
+
 [**Django Girls - Feira de Santana**](https://djangogirls.org/feiradesantana/)  
 09 December, 2017  
 Feira de Santana (BA), **Brazil**
