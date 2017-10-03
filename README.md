@@ -3,6 +3,10 @@
 A list with developer conferences for women.
 
 
+[**Byte Girl**](https://www.facebook.com/bytegirlevento/)  
+14 October, 2017  
+Fortaleza (CE), **Brazil**
+
 [**Women Dev Summit | Talks**](https://www.facebook.com/events/1922536651293173/)  
 11 November, 2017  
 São Paulo (SP), **Brazil**
