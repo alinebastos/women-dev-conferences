@@ -35,6 +35,7 @@ A list with developer conferences for women in general.
 
 
 [**JSLadies**](https://www.facebook.com/jsladiesbr/)
+- São Paulo - SP, **Brazil**
 
 
 [**PyLadies**](http://brasil.pyladies.com/)   
