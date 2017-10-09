@@ -33,6 +33,10 @@ A list with developer conferences for women in general.
 - Canoas - RS, **Brazil**
 - Porto Alegre - RS, **Brazil**
 
+
+[**JSLadies**](https://www.facebook.com/jsladiesbr/)
+
+
 [**PyLadies**](http://brasil.pyladies.com/)   
 - São Paulo - SP, **Brazil**
 - São Carlos - SP , **Brasil**
@@ -67,5 +71,9 @@ A list with developer conferences for women in general.
 - Brasilia - DF, **Brasil**
 - Belo Horizonte - MG, **Brasil**
 - Rio de Janeiro - RJ, **Brasil**
+
+
+[**Women Who Go**](https://www.facebook.com/WomenWhoGoBrasil/)
+- Porto Alegre - RS, **Brasil**
 
 
