@@ -11,6 +11,10 @@ Fortaleza (CE), **Brazil**
 27 October, 2017  
 Natal (RN), **Brazil**
 
+[**Elug Lab - Meetup #11**](https://www.meetup.com/elug_sp/events/243230058)  
+04 November, 2017  
+São Paulo (SP), **Brazil**
+
 [**Women Dev Summit | Talks**](https://www.facebook.com/events/1922536651293173/)  
 11 November, 2017  
 São Paulo (SP), **Brazil**
