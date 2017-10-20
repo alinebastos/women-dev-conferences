@@ -27,6 +27,10 @@ São Paulo (SP), **Brazil**
 11 November, 2017  
 Florianópolis (SC), **Brazil**
 
+[**Rails Girls - Porto Alegre**](https://www.facebook.com/railsgirlspoa/)  
+17/18 November, 2017  
+Porto Alegre (RS), **Brazil**
+
 [**Django Girls - Feira de Santana**](https://djangogirls.org/feiradesantana/)  
 09 December, 2017  
 Feira de Santana (BA), **Brazil**
