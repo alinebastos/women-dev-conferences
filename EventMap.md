@@ -73,6 +73,8 @@ A list with developer conferences for women in general.
 - Belo Horizonte - MG, **Brasil**
 - Rio de Janeiro - RJ, **Brasil**
 
+[**Reprograma**](http://www.reprograma.com.br/)
+- São Paulo - SP, **Brasil**
 
 [**Women Who Go**](https://www.facebook.com/WomenWhoGoBrasil/)
 - Porto Alegre - RS, **Brasil**
