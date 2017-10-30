@@ -2,15 +2,6 @@
 
 A list with future developer conferences for women this year.
 
-
-[**Byte Girl**](https://www.facebook.com/bytegirlevento/)  
-14 October, 2017  
-Fortaleza (CE), **Brazil**
-
-[**Code Girl**](https://www.sympla.com.br/code-girl-5__185364)  
-27 October, 2017  
-Natal (RN), **Brazil**
-
 [**Elug Lab - Meetup #11**](https://www.meetup.com/elug_sp/events/243230058)  
 04 November, 2017  
 São Paulo (SP), **Brazil**
