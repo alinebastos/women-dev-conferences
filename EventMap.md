@@ -8,7 +8,6 @@ A list with developer conferences for women in general.
 - Natal - RS, **Brazil**
 
 [**Django Girls**](https://djangogirls.org/)
-
 - Belém - PA, **Brazil**
 - São Luis - MA, **Brazil**
 - Teresinha - MA, **Brazil**
