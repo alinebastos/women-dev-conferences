@@ -4,8 +4,10 @@ A list with developer conferences for women in general.
 
 ## Brasil
 
-[**Django Girls**](https://djangogirls.org/)
+[**Code Girl**](http://www.codegirl.com.br)
+- Natal - RS, **Brazil**
 
+[**Django Girls**](https://djangogirls.org/)
 - Belém - PA, **Brazil**
 - São Luis - MA, **Brazil**
 - Teresinha - MA, **Brazil**
@@ -36,6 +38,7 @@ A list with developer conferences for women in general.
 
 [**JSLadies**](https://www.facebook.com/jsladiesbr/)
 - São Paulo - SP, **Brazil**
+- Rio de Janeiro - RJ, **Brazil**
 
 
 [**PyLadies**](http://brasil.pyladies.com/)   
@@ -78,5 +81,3 @@ A list with developer conferences for women in general.
 
 [**Women Who Go**](https://www.facebook.com/WomenWhoGoBrasil/)
 - Porto Alegre - RS, **Brasil**
-
-

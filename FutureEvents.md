@@ -26,6 +26,10 @@ Porto Alegre (RS), **Brazil**
 08/09 December, 2017  
 São Paulo (SP), **Brazil**
 
+[**Ladies that UX - São Paulo**](https://www.facebook.com/events/1710878575897208/)  
+08/09 December, 2017  
+São Paulo (SP), **Brazil**
+
 [**Django Girls - Feira de Santana**](https://djangogirls.org/feiradesantana/)  
 09 December, 2017  
 Feira de Santana (BA), **Brazil**
