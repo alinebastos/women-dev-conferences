@@ -30,6 +30,10 @@ São Paulo (SP), **Brazil**
 08/09 December, 2017  
 São Paulo (SP), **Brazil**
 
+[**Rails Girls - Floripa**](http://railsgirls.com/florianopolis.html)  
+08/09 December, 2017  
+Florianópolis (SC), **Brazil**
+
 [**Django Girls - Feira de Santana**](https://djangogirls.org/feiradesantana/)  
 09 December, 2017  
 Feira de Santana (BA), **Brazil**
