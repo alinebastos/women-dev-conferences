@@ -5,7 +5,7 @@
  - [Future Events](FutureEvents.md)
  - [General Events](EventMap.md)
 
-# Women speakers
+# Speakers
 
 Links where you can find women who speaks at conferences.
  
