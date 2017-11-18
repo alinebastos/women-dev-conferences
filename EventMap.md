@@ -79,5 +79,8 @@ A list with developer conferences for women in general.
 [**Reprograma**](http://www.reprograma.com.br/)
 - São Paulo - SP, **Brasil**
 
+[**WoMakersCode**](http://womakerscode.org/)
+- São Paulo - SP, **Brasil**
+
 [**Women Who Go**](https://www.facebook.com/WomenWhoGoBrasil/)
 - Porto Alegre - RS, **Brasil**
