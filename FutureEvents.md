@@ -2,10 +2,6 @@
 
 A list with future developer conferences for women this year.
 
-[**Rails Girls - Porto Alegre**](https://www.facebook.com/railsgirlspoa/)  
-17/18 November, 2017  
-Porto Alegre (RS), **Brazil**
-
 [**SHE'STECH WEEK 2017**](https://shestech.org/)  
 20/21/22/23/24 November, 2017  
 Belo Horizonte (MG), **Brazil**
