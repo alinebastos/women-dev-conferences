@@ -2,14 +2,6 @@
 
 A list with future developer conferences for women this year.
 
-[**SHE'STECH WEEK 2017**](https://shestech.org/)  
-20/21/22/23/24 November, 2017  
-Belo Horizonte (MG), **Brazil**
-
-[**PrograMaria**](https://www.sympla.com.br/programaria-summit-2017__214663)  
-25 November, 2017  
-São Paulo (SP), **Brazil**
-
 [**Oficina Mulheres e Java: introdução, conceito e prática**](https://docs.google.com/forms/d/e/1FAIpQLSefqZD-RG0FjJgHyEi2bI6p7r7nqfIhVOMJXofKb94CFRzeAg/viewform)  
 30 November, 2017  
 São Paulo (SP), **Brazil**
