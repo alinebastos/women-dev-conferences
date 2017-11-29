@@ -30,6 +30,10 @@ Florianópolis (SC), **Brazil**
 09 December, 2017  
 Feira de Santana (BA), **Brazil**
 
+[**Dev Women #1**](https://www.meetup.com/campinas-frontend/events/245494442/?eventId=245494442)  
+16 December, 2017  
+Campinas (SP), **Brazil**
+
 [**Programa ELAS**](http://programaelas.com.br/)  
 24/25 February, 2018  
 São Paulo (SP), **Brazil**
