@@ -7,7 +7,7 @@
 
 # Speakers
 
-Links where you can find women who speaks at conferences.
+Links where you can find women who speak at conferences.
  
  - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/)
  - [Codamos](https://www.codamos.club/palestrantes)
